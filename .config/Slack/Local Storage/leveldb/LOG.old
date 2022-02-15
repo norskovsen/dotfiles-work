@@ -1,0 +1,9 @@
+2022/02/13-13:59:33.398 258c Reusing MANIFEST /home/martin/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2022/02/13-13:59:33.398 258c Recovering log #3
+2022/02/13-13:59:33.398 258c Reusing old log /home/martin/.config/Slack/Local Storage/leveldb/000003.log 
+2022/02/13-19:12:33.663 3ae8 Level-0 table #5: started
+2022/02/13-19:12:33.664 3ae8 Level-0 table #5: 9992 bytes OK
+2022/02/13-19:12:33.666 3ae8 Delete type=0 #3
+2022/02/14-02:26:33.663 4810 Level-0 table #7: started
+2022/02/14-02:26:33.670 4810 Level-0 table #7: 7578 bytes OK
+2022/02/14-02:26:33.672 4810 Delete type=0 #4
